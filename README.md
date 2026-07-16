@@ -9,8 +9,8 @@ real time. The public QR marker in the corner contains only stream geometry
 metadata, not the secret key.
 
 Browser Extensions:
-  Firefox: https://addons.mozilla.org/en-CA/firefox/addon/secretstream-decoder/
-  Chrome: In Progress
+- Firefox: https://addons.mozilla.org/en-CA/firefox/addon/secretstream-decoder/
+- Chrome: In Progress
 
 ## Screenshots
 
