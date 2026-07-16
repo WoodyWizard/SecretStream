@@ -8,6 +8,10 @@ who know the same key can use the browser extension to reconstruct the stream in
 real time. The public QR marker in the corner contains only stream geometry
 metadata, not the secret key.
 
+Browser Extensions:
+  Firefox: https://addons.mozilla.org/en-CA/firefox/addon/secretstream-decoder/
+  Chrome: In Progress
+
 ## Screenshots
 
 ### Encrypted stream
